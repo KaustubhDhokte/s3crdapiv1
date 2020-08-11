@@ -1,0 +1,7 @@
+domain: s3crdapiv1
+repo: s3crdapiv1
+resources:
+- group: s3crdv1api
+  kind: S3Bucket
+  version: v1
+version: "2"

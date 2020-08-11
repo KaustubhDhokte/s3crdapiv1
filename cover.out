@@ -1,0 +1,8 @@
+mode: set
+s3crdapiv1/controllers/s3bucket_controller.go:45.79,61.66 6 0
+s3crdapiv1/controllers/s3bucket_controller.go:67.2,70.16 2 0
+s3crdapiv1/controllers/s3bucket_controller.go:78.2,78.27 1 0
+s3crdapiv1/controllers/s3bucket_controller.go:61.66,64.3 1 0
+s3crdapiv1/controllers/s3bucket_controller.go:70.16,74.3 3 0
+s3crdapiv1/controllers/s3bucket_controller.go:74.8,76.3 1 0
+s3crdapiv1/controllers/s3bucket_controller.go:81.71,85.2 1 0

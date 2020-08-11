@@ -1,0 +1,7 @@
+apiVersion: s3crdv1api.s3crdapiv1/v1
+kind: S3Bucket
+metadata:
+  name: s3bucket-six
+spec:
+  # Add fields here
+  bucketName: "newkaustubhbucketsix"
